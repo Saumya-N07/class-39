@@ -1,2 +1,2 @@
-# class-39
-resetting gamestate and playercount.
+# synchronousBallMovement
+Ball moving synchronously
